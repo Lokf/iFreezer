@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9DA2A5D5-3F7B-4B8D-9C20-CB662D496921}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{81EF92E2-C247-4AD6-BDBE-1926AA4FDCB5}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
